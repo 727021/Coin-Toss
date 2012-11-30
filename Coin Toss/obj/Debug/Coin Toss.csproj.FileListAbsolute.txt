@@ -1,0 +1,9 @@
+c:\users\andrew schimelpfenin\documents\visual studio 2012\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe.config
+c:\users\andrew schimelpfenin\documents\visual studio 2012\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+c:\users\andrew schimelpfenin\documents\visual studio 2012\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+c:\users\andrew schimelpfenin\documents\visual studio 2012\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.csprojResolveAssemblyReference.cache
+c:\users\andrew schimelpfenin\documents\visual studio 2012\Projects\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Form1.resources
+c:\users\andrew schimelpfenin\documents\visual studio 2012\Projects\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Properties.Resources.resources
+c:\users\andrew schimelpfenin\documents\visual studio 2012\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.csproj.GenerateResource.Cache
+c:\users\andrew schimelpfenin\documents\visual studio 2012\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.exe
+c:\users\andrew schimelpfenin\documents\visual studio 2012\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.pdb
